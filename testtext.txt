@@ -6,4 +6,7 @@ green
 add
 yellow
 testing branch 123
+run both
+=======
 adding red
+
